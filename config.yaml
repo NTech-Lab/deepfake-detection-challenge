@@ -1,0 +1,4 @@
+DFDC_DATA_PATH: "/kaggle/input/deepfake-detection-challenge"
+ARTIFACTS_PATH: "/kaggle/solution/artifacts"
+MODELS_PATH: "/kaggle/solution/models"
+SUBMISSION_PATH: "/kaggle/solution/output/submission.csv"
